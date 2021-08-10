@@ -1,4 +1,6 @@
-### Olá! Eu sou o Reinan Kauã
+<h1>Hello! I'm Reinan Kauã. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+
+
 
 <div>
   <a href="https://github.com/reinankaua">
@@ -14,8 +16,9 @@
 ##
   
 <div> 
-  <a href="https://instagram.com/reinankaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reinankaua" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  ### Connect with me
+  <a href="https://instagram.com/reinankaua" target="_blank"><img src="https://img.shields.io/badge/-Reinan%20Kauã-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/reinankaua" target="_blank"><img src="https://img.shields.io/badge/-Reinan%20Kauã-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/reinankaua/reinankaua/blob/output/github-contribution-grid-snake.svg)
  
