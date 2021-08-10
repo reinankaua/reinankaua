@@ -1,4 +1,4 @@
-<h1 >Hello! I'm Reinan Kauã. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1 >Hello! I'm Reinan Kauã. <img src="https://emoji.gg/assets/emoji/7715-hello.png" width="25"></h1>
 
 
 <div>
