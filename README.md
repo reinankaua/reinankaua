@@ -1,8 +1,8 @@
 <h1 >Hello! I'm Reinan Kauã. <img src="https://emoji.gg/assets/emoji/7715-hello.png" width="25"></h1>
 <div>
   <a href="https://github.com/reinankaua">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=reinankaua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinankaua&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=reinankaua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinankaua&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
