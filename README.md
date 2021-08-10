@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Reinan Kauã
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/reinankaua">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=reinankaua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinankaua&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
